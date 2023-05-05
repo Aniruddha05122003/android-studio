@@ -14,12 +14,12 @@
         android:layout_marginLeft="164dp"
         android:layout_marginEnd="153dp"
         android:layout_marginRight="153dp"
-        android:layout_marginBottom="296dp"
+        android:layout_marginBottom="308dp"
         android:onClick="load"
         android:text="ADD"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.153"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
